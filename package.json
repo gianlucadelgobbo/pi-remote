@@ -1,0 +1,26 @@
+{
+  "name": "pi-remote",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "onoff": "^1.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gianlucadelgobbo/pi-remote.git"
+  },
+  "author": "Gianluca Del Gobbo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gianlucadelgobbo/pi-remote/issues"
+  },
+  "homepage": "https://github.com/gianlucadelgobbo/pi-remote#readme"
+}
